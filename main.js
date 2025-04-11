@@ -2,15 +2,15 @@
   const pages = [
     {
       name: "Blobbypass Main",
-      url: "https://blobby-boi.github.io/SaffronXSS/main.html"
+      url: "https://blobby-boi.github.io/BlobbypassXSS/main.html"
     },
     {
-      name: "Wikipedia",
-      url: "https://en.m.wikipedia.org"
+      name: "Google",
+      url: "https://google.com"
     },
     {
-      name: "Example",
-      url: "https://example.com"
+      name: "Bing",
+      url: "https://bing.com"
     }
   ];
 
